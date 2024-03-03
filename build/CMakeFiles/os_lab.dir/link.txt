@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/os_lab.dir/src/main.c.o -o os_lab  liblib_msgq.a -lzmq 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/orchestra.dir/src/orchestra.c.o -o orchestra  liblib_msgq.a liblib_tree.a -lzmq 

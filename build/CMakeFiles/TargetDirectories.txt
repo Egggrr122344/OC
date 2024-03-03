@@ -1,0 +1,8 @@
+/home/ackerman/lab5/build/CMakeFiles/lib_tree.dir
+/home/ackerman/lab5/build/CMakeFiles/lib_msgq.dir
+/home/ackerman/lab5/build/CMakeFiles/os_lab.dir
+/home/ackerman/lab5/build/CMakeFiles/child.dir
+/home/ackerman/lab5/build/CMakeFiles/test_tree.dir
+/home/ackerman/lab5/build/CMakeFiles/orchestra.dir
+/home/ackerman/lab5/build/CMakeFiles/edit_cache.dir
+/home/ackerman/lab5/build/CMakeFiles/rebuild_cache.dir

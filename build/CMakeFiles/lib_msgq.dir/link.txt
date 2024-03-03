@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_msgq.a CMakeFiles/lib_msgq.dir/src/msg_q.c.o
+/usr/bin/ranlib liblib_msgq.a
